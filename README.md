@@ -133,4 +133,6 @@ Works in any modern browser. Mobile-friendly with touch support.
 
 ---
 
-*Built by [Pawel Jozefiak](https://pawel-jozefiak.jock.pl) · Inspired by artificial life research*
+Built by [Pawel Jozefiak](https://thoughts.jock.pl). I write about AI agents, automation, and building in public at **[Digital Thoughts](https://thoughts.jock.pl)** (1,000+ subscribers).
+
+[Subscribe to the newsletter](https://thoughts.jock.pl/subscribe) | [More projects](https://github.com/joozio) | [@joozio](https://x.com/joozio)
